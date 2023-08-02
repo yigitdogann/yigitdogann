@@ -1,4 +1,7 @@
 ### Hi there 👋
+My name is Yiğit and I'm a computer engineering student from Turkey. I will start my programming education this september(2023).
+I thought i can learn some HTML & CSS in my free times on this summer. And yes, i finished my courses. Now, I do exercises, then upload them here.
+
 
 <!--
 **yigitdogann/yigitdogann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
