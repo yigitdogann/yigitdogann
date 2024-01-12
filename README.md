@@ -1,8 +1,10 @@
 ### Hi there 👋
-My name is Yiğit and I'm a computer engineering student from Turkey. I will start my programming education september(2023).
-I thought i can learn some HTML & CSS in my free times on this summer. I completed some courses. And nowadays, I do exercises, then upload them here.
-Late edit: i started a JS journey.
-- 🌱 I’m currently learning JavaScript
+My name is Yiğit and I'm a computer engineering student from Turkey. I'll start my programming education in September 2023.
+I thought i can learn some HTML & CSS in my free times on this summer so I completed some courses. Nowadays, I do exercises & upload here.
+
+Late edit: i started JavaScript (5 AUG 2023).
+
+- 🌱 Currently learning programming in C.
 
 <!--
 **yigitdogann/yigitdogann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
