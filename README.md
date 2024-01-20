@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Yiğit and I'm a computer engineering student from Turkey. I'll start my programming education in September 2023.
-I thought i can learn some HTML & CSS in my free times on this summer so I completed some courses. Nowadays, I do exercises & upload here.
+I thought i can learn some HTML & CSS in my free times on this summer(2023) and I completed some courses. Nowadays, I'm trying to improve myself & upload my exercises here.
 
 Late edit: i started JavaScript (5 AUG 2023).
 
