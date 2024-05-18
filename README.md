@@ -1,11 +1,8 @@
 ### Hi there 👋
-BS-CS student from Turkey.
-Took C Programming classes in 2023-2024 academic year.
-Learnt some HTML, CSS, JavaScript in my free time during summer 23'.
-Still trying to improve myself & upload my exercises here.
-
-
-
+BS-CS student from Turkey.<br>
+Took C Programming classes in 2023-2024 academic year.<br>
+Learnt some HTML, CSS, JavaScript in my free time during summer 23'.<br>
+Still trying to improve myself & upload my exercises here.<br>
 
 
 <!--
