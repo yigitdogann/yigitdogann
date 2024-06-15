@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Yigit!
 ‣ BS-CS student from Turkey.<br>
 ‣ Took C Programming classes in 2023-2024 academic year.<br>
 ‣ Learnt some HTML, CSS & JavaScript during summer 23'.<br>
