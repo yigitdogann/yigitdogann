@@ -1,6 +1,6 @@
 ### Hi, I'm Yigit!
 ‣ BS-CS student from Turkey.<br>
-‣ Took C Programming classes in 23-24' academic year | Currently focused on learning C++<br>
+‣ Took C Programming classes in 23-24' academic year.<br>
 ‣ Learnt some HTML, CSS & JavaScript during summer 23'.<br>
 ‣ Still trying to improve myself & upload my exercises here.<br>
 
