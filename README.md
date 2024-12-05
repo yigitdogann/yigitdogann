@@ -1,7 +1,8 @@
 ### Hi, I'm Yigit!
 ‣ BS-CS student from Turkey.<br>
-‣ Took -Algorithms and Programming in C,<br>
-‣      -Data Structures in C classes<br>
+‣ Took<br>
+-Algorithms and Programming in C,<br>
+-Data Structures in C classes<br>
 ‣ Still trying to improve my coding skills & upload my exercises here.<br>
 
 <h3 align="left">Languages and Tools:</h3>
