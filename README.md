@@ -1,5 +1,5 @@
 ### Hi, I'm Yigit!
-‣ BS-CS student from Turkey.<br>
+‣ I have set myself the goal of "gaining the ability" to use the necessary programming language where it is needed.<br>
 ‣ I took Algorithms class with C, also implemented Data Structures with it.<br>
 ‣ Improving my skills with determination & upload my exercises here.<br>
 
@@ -9,6 +9,9 @@
 <h5 align="right">Reach Me via: yigitdogan2k@gmail.com</h5>
 
 <!--
+
+BS-CS student from Turkey.
+
 **yigitdogann/yigitdogann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  
  Late edit: i started JavaScript (5 AUG 2023).
